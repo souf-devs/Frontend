@@ -72,7 +72,7 @@ export default {
     switchTheme() {
       document.querySelector("#sun").classList.toggle("hidden")
       document.querySelector("#moon").classList.toggle("hidden")
-      document.documentElement.classList.toggle("dark") //0658063918
+      document.documentElement.classList.toggle("dark") 
       document.body.classList.toggle("bg-slate-900")
     }
 
