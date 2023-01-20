@@ -1,6 +1,6 @@
 <template>
-<div>
-	<h1 class="text-3xl text-red-500 text-center">Home</h1>
+<div class="dark:text-teal-300 text-red-500">
+	<h1 class="text-3xl text-center">Home</h1>
 </div>
 </template>
 
